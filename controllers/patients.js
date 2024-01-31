@@ -1,5 +1,5 @@
 import { createError } from "../error.js";
-import { db, connection } from "../models/data.js";
+import { db } from "../models/data.js";
 import bcrypt from "bcrypt";
 
 export const getPatientDetails = (req, res, next) => {

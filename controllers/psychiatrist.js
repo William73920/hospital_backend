@@ -1,6 +1,5 @@
 import { createError } from "../error.js";
-import { db, connection } from "../models/data.js";
-import bcrypt from "bcrypt";
+import { db } from "../models/data.js";
 
 export const getPsychiatristDetails = (req, res, next) => {
   const query = "SELECT * FROM psychiatrists";

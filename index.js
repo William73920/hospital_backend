@@ -1,7 +1,5 @@
 import express from "express";
-import { db, connection } from "./models/data.js";
-import { createError } from "./error.js";
-import bcrypt from "bcrypt";
+import { connection } from "./models/data.js";
 import patient from "./routes/patient.js";
 import psychiatrist from "./routes/psychiatrist.js";
 import hospital from "./routes/hospitals.js";
