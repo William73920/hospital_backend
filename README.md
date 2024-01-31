@@ -31,28 +31,29 @@ https://www.postman.com/security-operator-52310458/workspace/assihnment-william/
 
 ###predefined psychiatric table (name,id)
       
-| Psychiatrist Name | Psychiatrist ID |
-| ------------------ | ---------------- |
-| Dr. Smith          | 1                |
-| Dr. Johnson        | 2                |
-| Dr. Davis          | 1                |
-| Dr. White          | 2                |
-| Dr. Garcia         | 3                |
-| Dr. Thompson       | 1                |
-| Dr. Miller         | 3                |
-| Dr. Moore          | 2                |
-| Dr. Martin         | 3                |
-| Dr. Clark          | 1                |
-| Dr. Rodriguez      | 2                |
-| Dr. Lewis          | 3                |
-| Dr. Hall           | 1                |
-| Dr. Allen          | 2                |
-| Dr. Young          | 3                |
-| Dr. Hill           | 4                |
-| Dr. Scott          | 4                |
-| Dr. Green          | 4                |
-| Dr. Adams          | 4                |
-| Dr. Baker          | 4                |
+| Psychiatrist ID | Psychiatrist Name | Hospital ID |
+| --------------- | ------------------ | ------------ |
+| 1               | Dr. Smith          | 1            |
+| 2               | Dr. Johnson        | 2            |
+| 3               | Dr. Davis          | 1            |
+| 4               | Dr. White          | 2            |
+| 5               | Dr. Garcia         | 3            |
+| 6               | Dr. Thompson       | 1            |
+| 7               | Dr. Miller         | 3            |
+| 8               | Dr. Moore          | 2            |
+| 9               | Dr. Martin         | 3            |
+| 10              | Dr. Clark          | 1            |
+| 11              | Dr. Rodriguez      | 2            |
+| 12              | Dr. Lewis          | 3            |
+| 13              | Dr. Hall           | 1            |
+| 14              | Dr. Allen          | 2            |
+| 15              | Dr. Young          | 3            |
+| 16              | Dr. Hill           | 4            |
+| 17              | Dr. Scott          | 4            |
+| 18              | Dr. Green          | 4            |
+| 19              | Dr. Adams          | 4            |
+| 20              | Dr. Baker          | 4            |
+
 
 ### Running the Server
 npm start
